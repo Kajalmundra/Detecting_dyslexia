@@ -1,5 +1,7 @@
 # Detecting_dyslexia
 Detection of dyslexia in children using handwriting and eye movement
+
+
 About Dyslexia
 Dyslexia is a disorder characterized by difficulty in reading such as poor speech and sound 
 recognition. They have less capability to relate letters and form words and exhibit poor reading 
